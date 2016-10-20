@@ -1,0 +1,1 @@
+"use strict";console.log(Array(80).join("#"));console.log('\nHello World!\n');console.log('( From GeXxJS a Javascript dialect made by Gordan Nekić )');console.log('( If you like it, BTC: 18JJYabx4nqRpTXwFujdbFZKRh4rWWYKBF )');console.log(Array(80).join("#"));
