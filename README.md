@@ -1,7 +1,6 @@
 #GeXxJS Javascript dialect
 
-GeXx.js The New Javascript dialect/language
-The idea is to transform any javascript code into **valid** javascript code based of only 8 possible chars:
+GeXx.js The New Javascript dialect/language, the idea is to transform any javascript code into **valid** javascript code based of only 8 possible chars:
 
     Possible_Chars = [ "+", "!", "[", "]", "{", "}", "(", ")" ]
 
@@ -44,17 +43,15 @@ or include it in any html
 
 ##Fun facts
 
- - Currently without optimization, jQuery 1.12.4 is 10.5 MB (11,097,274 bytes)
+ - Currently without optimization, jQuery 1.12.4 is 10.5 MB (11,097,274 bytes).
 
 ##Donations
 
 If you like the madness and this project, you can donate to the author.
 BTC: 18JJYabx4nqRpTXwFujdbFZKRh4rWWYKBF
 
-----------
-
 #Licence
-
+```
 /*-
  * Copyright (c) 2016 Gordan Nekić
  * All rights reserved.
@@ -81,3 +78,4 @@ BTC: 18JJYabx4nqRpTXwFujdbFZKRh4rWWYKBF
  * SUCH DAMAGE.
  *
  */
+```
